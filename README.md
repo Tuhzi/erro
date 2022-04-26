@@ -3,14 +3,14 @@
 --PSET1--
 
 
-Aluno: Arthur Fabres Barcellos
+* Aluno: Arthur Fabres Barcellos
 
-Matéria: Banco de Dados
+* Matéria: Banco de Dados
 
-Professor: Abrantes Araujo
+* Professor: Abrantes Araujo
 
 ---------------------------------------------------------------------------------------//
 
-Primeiro Pset (Problem Set) da UVV. Introdução a utilização de programas de Sistemas de Gerenciamento de Banco de Dados (SGBD), dentre eles o PostgreSQL e o MariaDB pelo Power Architect dentro da máquina virtual recomendada pelo professor, o Oracle VM VirtualBox.
+*Primeiro Pset (Problem Set) da UVV. Introdução a utilização de programas de Sistemas de Gerenciamento de Banco de Dados (SGBD), dentre eles o PostgreSQL e o MariaDB pelo Power Architect dentro da máquina virtual recomendada pelo professor, o Oracle VM VirtualBox.*
 
 
